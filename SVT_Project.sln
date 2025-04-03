@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Collections", "Unity.Collections.csproj", "{ff34ea83-0a1d-5a1e-3db9-e4c413f94461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4b424ebd-0631-7173-32f5-026f6a59d381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Collections.BurstCompatibilityGen", "Unity.Collections.BurstCompatibilityGen.csproj", "{2d1a2a0b-ecf8-570e-641e-ba9c9c6deb7c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Collections.DocCodeSamples", "Unity.Collections.DocCodeSamples.csproj", "{509f3634-bd68-5bbb-2e78-8e458ca80aa8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Collections", "Unity.Collections.Player.csproj", "{56c186bd-ebdf-2db4-6a36-ec367d6b98a6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.Player.csproj", "{c4f13018-7b09-33d2-58a6-74cd11ee7f23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Collections.Tests", "Unity.Collections.Tests.csproj", "{db5ade0f-4dcf-0498-30d0-fc277f0533b8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Collections.Tests.Playmode", "Unity.Collections.Tests.Playmode.csproj", "{921f2ae6-13ca-d57f-0d02-c786b1312263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ff34ea83-0a1d-5a1e-3db9-e4c413f94461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ff34ea83-0a1d-5a1e-3db9-e4c413f94461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4b424ebd-0631-7173-32f5-026f6a59d381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4b424ebd-0631-7173-32f5-026f6a59d381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2d1a2a0b-ecf8-570e-641e-ba9c9c6deb7c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2d1a2a0b-ecf8-570e-641e-ba9c9c6deb7c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509f3634-bd68-5bbb-2e78-8e458ca80aa8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509f3634-bd68-5bbb-2e78-8e458ca80aa8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56c186bd-ebdf-2db4-6a36-ec367d6b98a6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56c186bd-ebdf-2db4-6a36-ec367d6b98a6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c4f13018-7b09-33d2-58a6-74cd11ee7f23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c4f13018-7b09-33d2-58a6-74cd11ee7f23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{db5ade0f-4dcf-0498-30d0-fc277f0533b8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{db5ade0f-4dcf-0498-30d0-fc277f0533b8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921f2ae6-13ca-d57f-0d02-c786b1312263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921f2ae6-13ca-d57f-0d02-c786b1312263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
